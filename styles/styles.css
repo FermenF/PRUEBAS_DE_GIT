@@ -19,9 +19,20 @@
     color: red;
 }
 
+.divs .div2{
+    color: blue;
+}
+
+.divs .div3{
+    color: green;
+}
+
+.divs .div4{
+    color: purple;
+}
 
 footer{
-    color: crimson;
+    color: black;
     padding: 10px;
     text-align: center;
 }
