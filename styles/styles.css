@@ -1,0 +1,28 @@
+
+*{
+    background: rgb(247, 234, 208);
+}
+
+
+.divs{
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    height: 140px;
+    width:  150px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+}
+
+.divs .div1{
+    color: red;
+}
+
+
+footer{
+    color: crimson;
+    padding: 10px;
+    text-align: center;
+}
+
